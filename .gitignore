@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local run outputs / temp files (keep code only)
+_t_*.json
+*.metrics.json
+*.tmp
